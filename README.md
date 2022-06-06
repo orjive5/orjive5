@@ -5,4 +5,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: germandoicinovic@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have a bachelor's degree in Biotechnology
+- ⚡ Fun fact: I have a bachelor's degree in biotechnology
