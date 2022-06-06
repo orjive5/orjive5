@@ -14,3 +14,7 @@
   <a href='https://www.instagram.com/germandojcinovic/?hl=en'><img alt=”Instagram” src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><a/>
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a bachelor's degree in biotechnology
+    
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=orjive5)](https://github.com/orjive5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orjive5&layout=compact)](https://github.com/orjive5)
