@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<a href="">
+<a href="linkedin.com/in/german-dojcinovic-74436b241">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 <a href="https://www.instagram.com/germandojcinovic/?hl=en">
