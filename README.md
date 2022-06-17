@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href='https://github.com/orjive5'>German</a> 👋
 
 - 🔭 I’m currently looking for a Junior Frontend position
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Express.js
 - ⚡ Fun fact: I have a bachelor's degree in biotechnology
 
 ### Connect with me:
