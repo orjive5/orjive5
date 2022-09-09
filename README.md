@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently looking for a Frontend developer position
 - 🌱 I’m currently learning MERN Stack
-- ⚡ Fun fact: I have a BSc degree in Biotechnology
 
 ### Connect with me:
 
