@@ -1,7 +1,6 @@
 ## Hi there, I'm <a href='https://github.com/orjive5'>German</a> 👋
 
 - 🔭 I’m currently looking for a Frontend developer position
-- 🌱 I’m currently learning MERN Stack
 
 ### Connect with me:
 
